@@ -1,0 +1,5 @@
+{
+  "name": "AI Content Generation Platform",
+  "description": "A web app that generates marketing content, blog posts, or social media captions using AI prompts.",
+  "requestFramePermissions": []
+}
